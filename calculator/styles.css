@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background: black;
+    color: white;
+    font-family:monospace
+}
+
+h1{
+    font-size:80px;
+}
+h2{
+    font-size: 40px;
+}
+
+button{
+
+    background:tomato;
+    width:150px;
+    height:40px;
+    border-style: none;
+    border-radius: 10px;
+}
+
+#result{
+    font-size: 80px;
+}

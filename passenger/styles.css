@@ -1,0 +1,40 @@
+body {
+background-image: url("background.jpg");
+font-family: monospace;
+text-align: center;
+display: block;
+background-size: cover;
+}
+
+
+h1 {
+font-size: 80px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+button {
+    border:none;
+    color:white;
+    width:200px;
+    height:40px;
+    font-weight: bold;
+    border-radius: 5px; 
+}
+
+#increase {
+    background:slateblue;
+    size: 30px;
+}
+
+#save{
+    background: steelblue;
+    size:30px
+}
+#previous{
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+}
